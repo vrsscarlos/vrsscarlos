@@ -22,8 +22,8 @@
 <div align="center">
   
   <a href="https://github.com/vrsscarlos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrsscarlos&show_icons=true&theme=white"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsscarlos&layout=compact&theme=white"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vrsscarlos&show_icons=true&theme=black"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrsscarlos&layout=compact&theme=black"/>
     
 </div>
 
