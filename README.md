@@ -5,7 +5,7 @@
 ##### Acadêmico em Engenharia Elétrica no Instituto Federal de Alagoas, formado como Técnico em Eletroeletrônica também pelo Instituto Federal de Alagoas.
 
 #### 🚀Eu tenho conhecimento em:
-
+<div align="center">
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 [![HTML5](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge)]
@@ -13,7 +13,7 @@
 
 
 #### 🌱Atualmente estou estudando:
-
+<div align="center">
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)]
 [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)]
