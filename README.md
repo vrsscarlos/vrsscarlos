@@ -36,6 +36,7 @@
 <a href="https://www.linkedin.com/in/vinicios-carlos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://open.spotify.com/user/zpmy7nr4wh19shxpzx4srskl2?si=D_rHuRvgSQqpp9DIsxWx1g" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
 <a href="vrssc1@aluno.ifal.edu.br" target = "_blank"><img src = "https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" target = "_blank"></a>
+<a href ="https://wa.me/qr/QMQ2U52VZAUGN1" target = "_blank"><img src = "https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge" target = "_blank"></a>
 
 </div>
 
