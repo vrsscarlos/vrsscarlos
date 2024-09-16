@@ -6,7 +6,7 @@
 
 
 <div align="center"> 
-🚀Eu tenho conhecimento em:
+####Tenho conhecimento em:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
@@ -14,7 +14,7 @@
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 
 
-#### 🌱Atualmente estou estudando:
+#### Atualmente estou estudando:
 <div align="center">
   
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
