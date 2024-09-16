@@ -2,9 +2,9 @@
 
 #### Descrição
 
-##### Graduating in electrical engineering from the Federal Institute of Alagoas, graduated as an electronics technician from the Federal Institute of Alagoas.
+##### Acadêmico em Engenharia Elétrica no Instituto Federal de Alagoas, formado como Técnico em Eletroeletrônica também pelo Instituto Federal de Alagoas.
 
-#### 🚀I have knowledge in:
+#### 🚀Eu tenho conhecimento em:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
@@ -12,7 +12,7 @@
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 
 
-#### 🌱Currently studying:
+#### 🌱Atualmente estou estudando:
 
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)]
@@ -29,7 +29,7 @@
 
 ##
 
-#### 📲Other midia:
+#### 📲Outras mídias sociais:
 <div align="center">
 
 <a href="https://www.instagram.com/_vrcarlos" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
