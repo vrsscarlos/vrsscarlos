@@ -6,8 +6,7 @@
 
 #### 🚀I have knowledge in:
 
-[![C](<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-)]
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]
 
