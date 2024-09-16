@@ -4,8 +4,9 @@
 
 ##### Acadêmico em Engenharia Elétrica no Instituto Federal de Alagoas, formado como Técnico em Eletroeletrônica também pelo Instituto Federal de Alagoas.
 
-<div align="center">
-#### 🚀Eu tenho conhecimento em:
+
+<div align="center"> 
+🚀Eu tenho conhecimento em:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)]
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
